@@ -1,2 +1,1 @@
-# Javascript-
-Javascript Learning
+Console.log(3+5);
